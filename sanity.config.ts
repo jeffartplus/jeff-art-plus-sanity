@@ -8,9 +8,9 @@ import {internationalizedArray} from 'sanity-plugin-internationalized-array'
 
 export default defineConfig({
   name: 'default',
-  title: 'Prueba',
+  title: 'Jeff Art Gallery',
 
-  projectId: '5sf89fxd',
+  projectId: 'v7tveygz',
   dataset: 'production',
 
   plugins: [
